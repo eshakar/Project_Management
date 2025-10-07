@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'sf';
+  src: url('./sf-pro-text_regular.woff2');
+}
+
+body {
+  font-family: 'sf', sans-serif;
+}
